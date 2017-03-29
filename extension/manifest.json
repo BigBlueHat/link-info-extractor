@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+
+  "name": "link-extractor",
+  "version": "0.0.1",
+  "description": "Extracts links",
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_title": "View the Links in this Page",
+    "default_popup": "popup.html",
+    "default_icon": {
+      "30": "images/icon32.png",
+      "32": "images/icon32.png"
+    }
+  }
+}
+
