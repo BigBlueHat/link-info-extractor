@@ -1,6 +1,6 @@
 {
   "name": "link-extractor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extracts linked data from links.",
   "main": "src/index.js",
   "scripts": {
