@@ -6,7 +6,7 @@ display in WebExtensions.
 
 Checkout the related articles at [CodeShip.com](http://codeship.com/):
 * [Building Web Extensions Because You Can](https://blog.codeship.com/building-web-extensions-because-you-can/)
-* WebExtensions 101 (comming soon!)
+* [WebExtensions 101](https://blog.codeship.com/webextensions-101/)
 
 # Usage
 
